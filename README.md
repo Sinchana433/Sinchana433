@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am learning DSA
+
 
 
 # 💻 Tech Stack:
